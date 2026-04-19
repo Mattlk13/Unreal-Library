@@ -246,6 +246,7 @@ UELib supports these kinds of content, but may vary from game to game:
 | Deadpool | | 846(~587)/181 | | ✅ |
 | InMomentum | 8980 | 848/000 |     | ✅ |
 | [Unmechanical](http://unmechanical.net/) | 9249 | 852/000 |     | ✅ |
+| Star Wars: First Assault | 9249 | 852/008 | Xbox360; platform needs to be set to console  | ✅ |  ❔ |  ✅ |
 | Deadlight | 9375 | 854/000 |     | ✅ |
 | Land of the Dead | 9375 | 854/000 |     | ✅ |
 | Borderlands Legends | 9505 | 859/000 | iOS; platform needs to be set to console | ✅ |
